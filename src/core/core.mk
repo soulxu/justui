@@ -1,0 +1,13 @@
+SOURCES := JuLoop.cpp
+SOURCES += JuKeyEvent.cpp
+SOURCES += JuTimerSource.cpp
+SOURCES += JuEventSource.cpp
+SOURCES += JuTtySource.cpp
+SOURCES += JuDebug.cpp
+SOURCES += JuTimerEvent.cpp
+SOURCES += JuEvent.cpp
+SOURCES += JuApp.cpp
+SOURCES += JuTimer.cpp
+SOURCES += JuPrimarySource.cpp
+SOURCES += JuCustomEvent.cpp
+TARGETS := libJuCore.so

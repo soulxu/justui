@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/ixmpp/!svn/ver/214/study/justui/test
+END
+testApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ixmpp/!svn/ver/213/study/justui/test/testApp.cpp
+END
+test.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ixmpp/!svn/ver/209/study/justui/test/test.mk
+END
+testKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ixmpp/!svn/ver/214/study/justui/test/testKey.cpp
+END
+testLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ixmpp/!svn/ver/208/study/justui/test/testLoop.cpp
+END
+testView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ixmpp/!svn/ver/212/study/justui/test/testView.cpp
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view
+END
+JuButtonItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ixmpp/!svn/ver/214/study/justui/src/view/JuButtonItem.h
+END
+view.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/view.mk
+END
+JuImageItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ixmpp/!svn/ver/212/study/justui/src/view/JuImageItem.cpp
+END
+JuRect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ixmpp/!svn/ver/210/study/justui/src/view/JuRect.h
+END
+JuPainter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/JuPainter.cpp
+END
+JuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ixmpp/!svn/ver/214/study/justui/src/view/JuItem.h
+END
+JuImageItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ixmpp/!svn/ver/212/study/justui/src/view/JuImageItem.h
+END
+JuPainter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/JuPainter.h
+END
+JuView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/JuView.cpp
+END
+JuRectItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ixmpp/!svn/ver/214/study/justui/src/view/JuRectItem.cpp
+END
+JuPaintEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ixmpp/!svn/ver/210/study/justui/src/view/JuPaintEvent.cpp
+END
+JuColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/JuColor.cpp
+END
+JuView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/JuView.h
+END
+JuRectItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ixmpp/!svn/ver/214/study/justui/src/view/JuRectItem.h
+END
+JuPaintEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ixmpp/!svn/ver/210/study/justui/src/view/JuPaintEvent.h
+END
+JuColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ixmpp/!svn/ver/214/study/justui/src/view/JuColor.h
+END
+JuGuiApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ixmpp/!svn/ver/210/study/justui/src/view/JuGuiApp.cpp
+END
+JuGuiApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ixmpp/!svn/ver/210/study/justui/src/view/JuGuiApp.h
+END
+JuButtonItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ixmpp/!svn/ver/214/study/justui/src/view/JuButtonItem.cpp
+END
+JuRect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ixmpp/!svn/ver/210/study/justui/src/view/JuRect.cpp
+END
+JuItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ixmpp/!svn/ver/215/study/justui/src/view/JuItem.cpp
+END
